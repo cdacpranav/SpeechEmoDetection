@@ -11,4 +11,4 @@ scikit-learn
 matplotlib
 soundfile
 scipy
-cv2
+opencv-python
