@@ -2,7 +2,7 @@ librosa
 tensorflow
 numpy
 streamlit
-pyaudio
+portaudio
 pandas
 seaborn
 tqdm
