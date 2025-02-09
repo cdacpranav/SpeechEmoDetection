@@ -6,6 +6,7 @@ portaudio
 pandas
 seaborn
 tqdm
+pyaudio
 scikit-learn
 tensorflow
 matplotlib
